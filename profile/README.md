@@ -1,3 +1,3 @@
 # Synthread Labs
 
-Find us on [GitLab](https://gitlab.com/synthread)
+Find us on [GitLab](https://gitlab.com/synthread) - all public repos here are mirrors

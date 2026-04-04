@@ -47,4 +47,4 @@ Find us at [synthread.ca](https://www.synthread.ca)
 
 ---
 
-Last updated April 3, 2026
+Last updated April 4, 2026

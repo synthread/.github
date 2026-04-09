@@ -17,6 +17,8 @@ We make cool things, mess around with hardware, and generally try to avoid throw
 
 [**Style Distiller** (`style-distiller`)](https://gitlab.com/synthread/ai/style-distiller.git)
 
+[**`index`**](https://gitlab.com/synthread/docs/index.git)
+
 [**`rp2040-zero-scaffold`**](https://gitlab.com/synthread/hw/rp2040-zero-scaffold.git)
 
 [**`auto-sync-repo`**](https://gitlab.com/synthread/infra/auto-sync-repo.git)

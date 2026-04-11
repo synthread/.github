@@ -15,6 +15,8 @@ We make cool things, mess around with hardware, and generally try to avoid throw
 
 [**`Klippventurer`**](https://github.com/synthread/Klippventurer)<br>Klipperize your FlashForge printer!
 
+[**`1Password-MCP`**](https://gitlab.com/synthread/ai/1Password-MCP.git)
+
 [**Style Distiller** (`style-distiller`)](https://gitlab.com/synthread/ai/style-distiller.git)
 
 [**`index`**](https://gitlab.com/synthread/docs/index.git)
@@ -38,6 +40,8 @@ We make cool things, mess around with hardware, and generally try to avoid throw
 [**`linux-tesla`**](https://gitlab.com/synthread/tesla/linux-tesla.git)
 
 [**`u-boot`**](https://gitlab.com/synthread/tesla/u-boot.git)
+
+[**`1Password-MCP`**](https://github.com/synthread/1Password-MCP)
 
 
 

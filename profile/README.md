@@ -1,4 +1,4 @@
-# Synthread Canada Ltd.
+# Synthread Labs
 
 
 > [!important]
@@ -6,7 +6,7 @@
 > GitLab or are forks of other GitHub repos.
 
 
-Synthread is a collaboration between [Kai (@notkai)](https://notk.ai) and [@TheSynthax](https://github.com/The-Synthax).
+Synthread Labs is a collaboration between [Kai (@notkai)](https://notk.ai) and [@TheSynthax](https://github.com/The-Synthax).
 We make cool things, mess around with hardware, and generally try to avoid throwing out anything ever.
 
 ---
